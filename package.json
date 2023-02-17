@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/nilab-khwaja/hello-microvers/issues"
   },
-  "homepage": "https://github.com/nilab-khwaja/hello-microvers#readme"
+  "homepage": "https://github.com/nilab-khwaja/hello-microvers#readme",
+  "devDependencies": {
+    "hint": "^7.1.3"
+  }
 }
