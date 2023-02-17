@@ -2,15 +2,6 @@
 <a name="readme-top"></a>
 
 
-<div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
-
-</div>
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -143,11 +134,11 @@ using javascript
 
 
 
-> Write a message to encourage readers to support your pro
+
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
+ The microvers team help me to bulid such thing and it was very great.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
