@@ -1,1 +1,1 @@
-Thit his is a file ignored by github.
+this is a file ignored by github
