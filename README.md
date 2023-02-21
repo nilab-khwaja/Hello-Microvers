@@ -88,7 +88,7 @@ Example command:
 To run the project, execute the following command:
 
 git init
-get clone http:\\github:nilab-khwaja/hello-microvers.git
+git clone http:\\github:nilab-khwaja/hello-microvers.git
 
 ### Run tests
 
