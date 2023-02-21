@@ -126,7 +126,7 @@ git push
 
 add more style
 add more content
-using javascript
+using javascript and DOM
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
